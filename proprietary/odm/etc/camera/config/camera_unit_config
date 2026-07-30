@@ -10,7 +10,6 @@
     "rear_main":["video_mode", "photo_mode", "super_text_mode", "fastvideo_mode", "professional_mode", "id_photo_mode", "slowvideo_mode", "movie_mode", "xpan_mode", "panorama_mode", "long_exposure_mode"],
     "rear_tele":["professional_mode", "movie_mode", "photo_mode"],
     "front_main":["video_mode", "photo_mode", "portrait_mode", "fastvideo_mode", "id_photo_mode", "night_mode", "panorama_mode"],
-    "rear_sat":["video_mode", "photo_mode", "super_text_mode", "portrait_mode", "night_mode", "fastvideo_mode"],
     "rear_main_front_main":["multi_camera_mode"],
     "rear_microscope":["microscope_capture_mode", "microscope_video_mode"],
     "rear_macro":["macro_mode"],
@@ -233,7 +232,7 @@
 
   "vendor_tag_type_values": {
     "com.oplus.authed.white.list":"com.ss.android.ugc.aweme, com.finshell.wallet",
-    "com.oplus.sat.wide.support.imagesizes":"4096X3072X4096X2304X4096X1834X3072X3072",
+    "com.oplus.sat.wide.support.imagesizes":"4096X3072X4096X2304X4096X1836X3072X3072",
     "com.oplus.sat.ultra.support.imagesizes":"4000X3000X4000X2250X4000X1792X3000X3000",
     "com.oplus.sat.tele.support.imagesizes":"3136X2352X3136X1760X3136X1404X2352X2352",
     "com.oplus.front.common.high.mfnr.picturesize":"2304x1728x1728x1728x2304x1040x2304x1296",
